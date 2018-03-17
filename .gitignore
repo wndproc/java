@@ -1,0 +1,18 @@
+### Compiled files directory
+target/
+bin/
+out/
+
+### IDE
+.settings/
+.metadata/
+.project
+.springBeans
+.classpath
+.idea
+*.iml
+
+### OS generated files
+.DS_Store
+Icon?
+Thumbs.db
